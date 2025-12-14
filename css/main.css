@@ -1,0 +1,80 @@
+body {
+    padding-top: 20px;
+
+}
+#navbar{
+    background-color: #0b5ed7;
+}
+.navbar.container {
+    width: 54px;
+    margin-left: 760px;
+}
+#text {
+    background-color: #0b5ed7;
+    color:  white;
+}
+#dropdownMenuLink {
+    background-color: #0b5ed7;
+    color:  white;
+    border: 5px;
+}
+.hero-image {
+    background-image: url("../images/hero_image.jpg");
+    background-color: #cccccc;
+    height: 350px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+#registration{
+    margin: auto;
+    width: 50%;
+    border: 3px solid #0b5ed7;
+    padding: 10px;
+}
+#reg-title{
+    text-align: center;
+}
+
+
+
+#images {
+    width: auto;
+    height: 200px;
+
+}
+#footer {
+    margin-top: 30px;
+
+}
+img.details {
+    width:auto;
+    margin: 12px;
+    height: 210px;
+}
+.carousel {
+    width:350px;
+    height:180px;
+    text-align: center;
+    justify-content: center;
+}
+.text-center{
+    text-align: center;
+}
+#img-size {
+    transition:transform 0.25s ease;
+}
+#img-size:hover{
+    transform: scale(1.8);
+}
+
+#close{
+    position: absolute;
+    top: 5px;
+    right: 5px;
+}
+.visa{
+    text-align: center;
+    justify-content: center;
+}
